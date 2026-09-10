@@ -3,7 +3,7 @@
 ## Ahmad's Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,redux,html,css,sass,tailwind,pug,js,ts,nodejs,jest,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,gatsby,angular,redux,html,css,sass,tailwind,pug,js,ts,nodejs,jest" />
   <img src="https://skillicons.dev/icons?i=git,github,express,graphql,apollo,nestjs,postman,postgres,mysql,mongodb,redis,py" />
   <img src="https://skillicons.dev/icons?i=bash,linux,githubactions,jenkins,kafka,docker,k8s,nginx,cloudflare,obsidian" />
 </p>
